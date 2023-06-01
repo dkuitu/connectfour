@@ -4,7 +4,7 @@
 
 Welcome to ConnectFour, a web-based implementation of the classic two-player connection game.
 
-![Screenshot of the game](screenshot.png)
+![Screenshot of the game](screenshot.png) ##TODO
 
 ## Setup and Usage
 

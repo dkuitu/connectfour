@@ -27,13 +27,6 @@ cd connectfour
 
 Open `index.html` in your web browser.
 
-If you have a local web server, you can serve the game from there:
-
-```
-python -m http.server
-```
-
-Visit `localhost:8000` in your web browser to play the game.
 
 ## Contributing
 
